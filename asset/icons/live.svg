@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="21.992" viewBox="0 0 24 21.992">
+  <g id="live" transform="translate(-12 33.204)">
+    <path id="패스_1" data-name="패스 1" d="M16.781,22.482s-.01-2.571.975-2.572,15.326-.044,16.062,0,.717,2.605.717,2.605" transform="translate(-2 -48.29)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="선_1" data-name="선 1" x2="3" y2="3" transform="translate(20.5 -31.79)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <line id="선_2" data-name="선 2" x1="3" y2="3" transform="translate(24 -31.79)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <path id="패스_2" data-name="패스 2" d="M16.781,22.5s-.01-2.591.975-2.592,15.326-.044,16.062,0,.717,2.625.717,2.625" transform="translate(49.317 7.68) rotate(180)" fill="none" stroke="#fff" stroke-width="2"/>
+    <text id="LIVE-2" data-name="LIVE" transform="translate(12 -16.29)" fill="#fff" font-size="10" font-family="NotoSansKR-Bold, Noto Sans KR" font-weight="700" letter-spacing="0.06em"><tspan x="0" y="0">LIVE</tspan></text>
+  </g>
+</svg>
